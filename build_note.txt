@@ -1,1 +1,0 @@
-This file will be rebuilt from scratch using a Python script that generates the HTML with proper HTML entities for all special characters, avoiding any UTF-8 encoding issues with emoji/em-dash.
